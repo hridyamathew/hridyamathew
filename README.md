@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SecureWin**
 
-- 🌱 I’m currently learning **Flutter,Supabase**
+- 🌱 I’m currently learning **Flutter,Firebase,Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://hridyamathew.github.io/learning_fest/JavaScript/FinalProject/index.html](https://hridyamathew.github.io/learning_fest/JavaScript/FinalProject/index.html)
 
