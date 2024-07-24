@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hridya Mathew</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridyamathew&label=Profile%20views&color=0e75b6&style=flat" alt="hridyamathew" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridyamathew" alt="hridyamathew" /></a> </p>
 
-- 🔭 I’m currently working on **SecureWin**
+- 🔭 I have completed our mini project **SecureWin - Lottery Management System**
 
-- 🌱 I’m currently learning **Flutter,Firebase,Blockchain**
+- 🌱 Technologies we  used in our project are **Flutter, Firebase, Blockchain, html, css**
 
-- 👨‍💻 All of my projects are available at [https://hridyamathew.github.io/learning_fest/JavaScript/FinalProject/index.html](https://hridyamathew.github.io/learning_fest/JavaScript/FinalProject/index.html)
+- 👨‍💻 Personal Portfolio: [https://hridyamathew.github.io/learning_fest/JavaScript/FinalProject/index.html](https://hridyamathew.github.io/learning_fest/JavaScript/FinalProject/index.html)
 
 - 📫 How to reach me **hridyamathew848@gmail,com**
 
