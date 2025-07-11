@@ -9,7 +9,7 @@
 
 - 🌱 Technologies we  used in our project are **Flutter, Firebase, Blockchain, html, css**
 
-- 📫 How to reach me **hridyamathew848@gmail,com**
+- 📫 How to reach me **hridyamathew848@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
