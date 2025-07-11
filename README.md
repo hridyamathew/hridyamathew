@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hridya Mathew</h1>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">Btech CSE Graduate | Full Stack Developer | Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridyamathew&label=Profile%20views&color=0e75b6&style=flat" alt="hridyamathew" /> </p>
 
