@@ -9,8 +9,6 @@
 
 - 🌱 Technologies we  used in our project are **Flutter, Firebase, Blockchain, html, css**
 
-- 👨‍💻 Personal Portfolio: [https://hridyamathew.github.io/learning_fest/JavaScript/FinalProject/index.html](https://hridyamathew.github.io/learning_fest/JavaScript/FinalProject/index.html)
-
 - 📫 How to reach me **hridyamathew848@gmail,com**
 
 <h3 align="left">Connect with me:</h3>
